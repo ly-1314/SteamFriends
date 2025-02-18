@@ -12,3 +12,12 @@
 
 ### 使用方法：[issue1](https://github.com/systemannounce/SteamFriends/issues/1)
 
+
+
+## Steam好友列表
+| Avatar                                                                            | Name       | steamid                                                                     | is_friend   | BFD                 | removed_time   | Remark   |
+|:----------------------------------------------------------------------------------|:-----------|:----------------------------------------------------------------------------|:------------|:--------------------|:---------------|:---------|
+| ![](https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg) | 3394647802 | [76561199470386011](https://steamcommunity.com/profiles/76561199470386011/) | ✅           | 2023-06-08 15:15:25 |                |          |
+| ![](https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg) | glimer     | [76561198999551205](https://steamcommunity.com/profiles/76561198999551205/) | ✅           | 2023-06-08 13:02:57 |                |          |
+| ![](https://avatars.steamstatic.com/2f3e247798095ae77ed6bd13a1a91fba298f3ef0.jpg) | 青青草原第一马枪手  | [76561199095762724](https://steamcommunity.com/profiles/76561199095762724/) | ✅           | 2024-08-20 03:02:02 |                |          |
+| ![](https://avatars.steamstatic.com/a7374507c13f5a66d2be518abce6666953a17682.jpg) | douzidou   | [76561199102420214](https://steamcommunity.com/profiles/76561199102420214/) | ✅           | 2023-07-03 06:35:54 |                |          |
